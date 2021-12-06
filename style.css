@@ -57,6 +57,7 @@ body {
     padding: 10% 0;
     font-family: 'Big Shoulders Display', cursive;
     font-size: 2rem;
+    text-transform: uppercase;
 }
 .para {
     font-family: 'Lexend Deca', sans-serif;
